@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Eric20Junior/alx-system_engineering-devops/master/0x19-postmortem/youtube500error.jpg" width=75% height=75%/>
+<img src="https://github.com/Nii-Odoi1/alx-system_engineering-devops/blob/master/0x19-postmortem/youtube500error.jpg" width=75% height=75%/>
 </p>
 
 ## Service unavailability
-### Incident report for [Site Outage](https://raw.githubusercontent.com/Eric20Junior/alx-system_engineering-devops/master/0x19-postmortem/youtube500error.jpg)
+### Incident report for [Site Outage](https://github.com/Nii-Odoi1/alx-system_engineering-devops/blob/master/0x19-postmortem/youtube500error.jpg)
 
 #### Issue Summary
 On November 4th, 2022 from 9:39 PM to 9:49 PM UTC, the company's website was down for ten minutes. 100% of users experienced a 500 internal server error caused by a mispelled filename in a configuration file.
